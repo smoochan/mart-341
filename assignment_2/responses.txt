@@ -1,7 +1,14 @@
 1. How is the world wide web different than the internet?
+  The WWW is the pages that you see when you're connected to the internet, which is the network you connect to. Like how YouTube is the page you view, but you're connectiong to its servers in California (or.. whever YouTube is.) 
 2. Briefly describe how the internet works.
+  You're basically constantly connecting to someone else. You access the internet via your internet provider, but whenever you access a website or game for example you are connecting to their servers. Probably why they call it a web. 
 3. What is a directory, and what is its relationship to files?
+  It's like the code version of folders, where you can sort everything to its proper spots and not get lost in your own code. Which.. can still happen, but at least it's easier to access now. 
 4. How will VCS benefit you?
+  You can go back to the previous version of your code when something breaks, or you realize you don't like the current version. 
 5. Take a screenshot anytime while working on your homework.
+  boop. 
 6. What is your favorite kind of art?
-7. Rename this screenshot using proper naming conventions, and upload it to your assignment02 directory.
+  I do a lot of character art, so I'm a bit biased to that. 
+7. Rename this screenshot using proper naming conventions, and upload it to your assignment02 directory. 
+  ok :]
