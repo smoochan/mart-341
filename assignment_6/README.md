@@ -1,0 +1,3 @@
+1. It can only have one of each- the head is the brains or the topper of HTML, and the body is the all the guts of HTML. 
+2. Structual seems to alter the order in which text appears, while semantic alters the appearance or the content within the text.
+3. Honestly, the biggest challenge was deciding what recipe to copy down.. But even with the description I still can't tell the difference between bold and strong tags.. the same goes for em and italics. I don't see why we can't just use i and b instead of typing out strong and em. 
