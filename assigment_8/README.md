@@ -1,0 +1,3 @@
+1. Divs are the blocks which makes CSS easier to use and helps divide things up in HTML. IDs and classes help define the divs, however classes are more specific and can be added to different IDS. Spans are needed if you need text to look a certain way.
+2. It's much easier space and money wise to host a video on a place like YT or Vimeo, however you could run into copyright issues if you're not careful- especially if you feel like monetizing your work. 
+3. It was a bit daunting at first until I got the rhythm of the assignment, as at least i've worked with DIVs before. I will say that I take copy-pasting for granted on websites as I completely forgot you could embed certain content. 
