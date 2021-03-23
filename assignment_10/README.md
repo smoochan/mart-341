@@ -1,0 +1,4 @@
+1. Each element gets more specific as you go down, like if you wanted to color everything or make everything one font, you'd use the universal element. However if you just wanted to make paragraph one color or only have text be a certain color in a box, you'd be more specific than universal, using a class or id if you really wanted. 
+
+2. Red, black and white are pretty edgy colors but they're the colors I associate most with 70's horror posters. (I don't actually watch horror very often, but they were on the brain.. ) I had #ededed (off-white), #bd0d0d (red), #2e2e2e(off-black). I didn't want to go full-black or full-red/white, as I felt that would just hurt people's eyes. 
+3. Getting the images to be around the same size was a challenge until I realized you could just use a percent rather than px.. which is honestly the best thing I discovered. 
