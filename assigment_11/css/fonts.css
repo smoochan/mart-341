@@ -1,5 +1,10 @@
 @font-face {
-    font-family: Forturn;
-    src= 
+    font-family: 'Forturn';
+    src: url('https://smoochan.github.io/mart-341/assignment_11/fonts/forturn.ttf') format('truetype')
 
+}
+
+@font-face {
+    font-family: 'Please write me a song';
+    src: url()
 }
