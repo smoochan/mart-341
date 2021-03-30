@@ -23,6 +23,7 @@ h1, h2, h3, h4 {
 }
 h1::first-line {
     color:rgb(126, 26, 81);
+    text-align: center;
 
 }
 
