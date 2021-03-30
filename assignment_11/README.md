@@ -1,0 +1,3 @@
+1. A system font is something typically pre-installed, web fonts are ones you find and download online, and web-safe are ones that almost anyone can use even if they have a microwave for a computer. 
+2. EX: Someone has a microwave of a computer, then you can make sure that your website is still readable. 
+3. Linking fonts was really confusing, especially since I was having trouble linking them directly from my system- but a good workaround was linking them from github to the css. I don't know if you can link fonts directly from computer systems. 
