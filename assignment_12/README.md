@@ -1,0 +1,2 @@
+1. Margin is how everything is aligned, padding is the space between blocks, and borders is the line seperating everything. 
+2. Getting the images to not 'flop' around was difficult until I used float, and getting the hover to work was a nightmare until I realized that I used a space rather than a dash when naming the parent box. 
