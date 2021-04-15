@@ -1,0 +1,3 @@
+1. I figured someone who sells soaps would be fine. Something bright and cheery but not too eye-burning.
+2. Mobile is very compact, and when building a website you need to make sure all the information is available to everyone- and that it's visible to everyone.
+3. I hate the dropdown thing. I kind of just played with it until it worked- but I hate using it so much TBH. I want to bash my head against it. 
