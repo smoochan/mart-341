@@ -1,0 +1,65 @@
+body {
+    background-color: bisque;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.boxen {
+    background-color: rgb(255, 249, 240);
+    width: 75%;
+    height: 700px;
+    margin: auto;
+    padding: 20px;
+    
+}
+@-ms-viewport {
+    width: device-width;
+}
+
+.nav {
+    background-color: cornsilk;
+    width: 200px;
+    height: 700px;
+    float: left;
+    padding: 20px;
+}
+.float .nav {
+    float: right;
+    
+}
+p {
+    color:lightcoral;
+}
+
+a {
+    color:indianred;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a:hover {
+    color:rgb(243, 144, 144);
+}
+
+.hidden-box {
+    width: 300px;
+    height: 400px;
+    float: left;
+}
+
+.hidden-box2 {
+    display: none;
+    width: 200px;
+    height: 400px;
+    float: left;
+}
+.hidden-box:hover .hidden-box2 {
+    display: block;
+}
+img {
+    width: 30%;
+    height: 30%;
+    border:rgb(160, 79, 79) dashed 2px;
+    display: inline-block;
+    padding: 5px;
+}
+#myCanvas {
+    border: 2px salmon solid;
+}
